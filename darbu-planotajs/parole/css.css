@@ -1,0 +1,43 @@
+.inputtext{
+    
+    text-align: center;
+    font-weight: bold;
+    color: white;
+	font-size: 30px;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.formtitle{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+	font-size: 40px;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.inputcontent{
+    text-align: center; 
+    
+}
+.buttons{
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+}
+html {
+    background-image: url("giphy.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+   }
+   body{
+       padding: 20%;
+   }
+   input.orangebutton{
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+    border: #cccccc 1px solid;
+    border-radius: 10%;
+    background-color: rgb(247, 243, 239);
+   }
